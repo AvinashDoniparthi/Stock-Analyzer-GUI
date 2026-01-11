@@ -132,6 +132,4 @@ All rights are reserved. No one else may claim authorship or redistribute this w
 You are welcome to view and learn from this project, but any public use, reposting, or redistribution **must credit Avinash D**.
 
 =======
-# Stock-Analyzer-GUI
-Python GUI to visualize and analyze stock prices
->>>>>>> 3e8c63a8db104b4e998b71b2c7c45311a32b7840
+
